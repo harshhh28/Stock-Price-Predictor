@@ -1,10 +1,10 @@
 # Stock-Price-Predictor 📈💰
 
-This project is a stock price predictor that uses Linear Regression to predict the future stock prices of a company (HDFC Bank Ltd). The dataset used in this project is the historical stock prices of HDFC Bank Ltd. (HDFCBANK) from 1996 to 2023.
+This project is a stock price predictor that uses Linear Regression to predict the future stock prices of a company (HDFC Bank Ltd). The dataset used in this project is the historical stock prices of HDFC Bank Ltd. (HDFCBANK) from Jan'96 to April'23.
 
 ## Dataset 🗄️
 
-The dataset used in this project consists of historical stock prices of HDFC Bank Ltd. (HDFCBANK) from 1996 to Aug'2023. You can find the dataset in the `data` folder. The dataset was taken from [Kaggle](https://www.kaggle.com/datasets)
+The dataset used in this project consists of historical stock prices of HDFC Bank Ltd. (HDFCBANK) from 1996 to Aug'2023. You can find the dataset in the `data` folder. The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/gianetan/hdfc-bank-stock-market-data-jan-96july-22).
 
 ## Methodology 🧮
 
