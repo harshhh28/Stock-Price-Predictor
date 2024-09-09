@@ -40,5 +40,5 @@ pip install pandas numpy matplotlib scikit-learn
 Once the prerequisites are installed, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Stock-Price-Predictor.git
+git clone https://github.com/harshhh28/Stock-Price-Predictor.git
 ```
