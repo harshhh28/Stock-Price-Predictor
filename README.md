@@ -4,7 +4,7 @@ This project is a stock price predictor that uses Linear Regression to predict t
 
 ## Dataset 🗄️
 
-The dataset used in this project consists of historical stock prices of HDFC Bank Ltd. (HDFCBANK) from 1996 to Aug'2023. You can find the dataset in the `data` folder. The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/gianetan/hdfc-bank-stock-market-data-jan-96july-22).
+The dataset used in this project consists of historical stock prices of HDFC Bank Ltd. (HDFCBANK) from 1996 to Aug'2023. You can find the dataset in the `data` folder. The dataset was taken from <a href="https://www.kaggle.com/datasets/gianetan/hdfc-bank-stock-market-data-jan-96july-22" target="_blank">Kaggle</a>.
 
 ## Methodology 🧮
 
@@ -29,7 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites 📋
 
-Make sure you have Python installed. You can download it from the official [Python website](https://www.python.org/downloads/). You will also need to install the above mentioned Python libraries, you can install them by running the following command:
+Make sure you have Python installed. You can download it from the official <a href="https://www.python.org/downloads/" target="_blank">Python Website</a>. You will also need to install the above mentioned Python libraries, you can install them by running the following command:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
