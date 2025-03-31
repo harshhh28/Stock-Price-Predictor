@@ -15,6 +15,7 @@ This project utilizes the `sklearn` library to implement a Linear Regression mod
 - `README.md`: This file provides a brief overview of the project.
 - `stock_predictor.ipynb`: This Python notebook script contains the code for the Linear Regression model and prediction logic along with plots for better visualization.
 - `data/HDFCBANK.csv`: This file contains the historical stock price data for HDFC Bank Ltd.
+- `CONTRIBUTING.md`: Guidelines for contributing to this project.
 
 ## Libraries Used 📚
 
@@ -42,3 +43,23 @@ Once the prerequisites are installed, clone this repository to your local machin
 ```bash
 git clone https://github.com/harshhh28/Stock-Price-Predictor.git
 ```
+
+## Contributing 🤝
+
+We welcome contributions to improve this project! If you'd like to contribute, please check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit changes, code style, and more.
+
+Areas for contribution include:
+- Adding new prediction models
+- Improving data visualization
+- Enhancing the existing model's accuracy
+- Adding support for additional stocks
+
+## Contributors ✨
+
+Thanks to all the amazing contributors who have helped make this project better!
+
+| Avatar | Name | GitHub | Role | Contributions |
+|--------|------|--------|------|---------------|
+| <img src="https://github.com/harshhh28.png" width="50px" height="50px" alt="harshhh28"/> | Harsh Gajjar | [harshhh28](https://github.com/harshhh28) | Project Creator & Maintainer | Core implementation, Documentation |
+
+Want to see your name here? Check out our [contribution guidelines](CONTRIBUTING.md) to get started!
